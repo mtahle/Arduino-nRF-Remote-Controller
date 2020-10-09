@@ -1,5 +1,5 @@
 /*
-
+By Mujahed Altahleh
 Demonstrates simple RX and TX operation.
 Any of the Basic_TX examples can be used as a transmitter.
 Please read through 'NRFLite.h' for a description of all the methods available in the library.
