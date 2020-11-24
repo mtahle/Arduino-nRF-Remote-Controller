@@ -38,9 +38,9 @@ void setup()
     pinMode(3,OUTPUT);
     digitalWrite(3,HIGH);
     pinMode(4,OUTPUT);
-    digitalWrite(3,HIGH);
+    digitalWrite(4,HIGH);
     pinMode(5,OUTPUT);
-    digitalWrite(3,HIGH);
+    digitalWrite(5,HIGH);
     // By default, 'init' configures the radio to use a 2MBPS bitrate on channel 100 (channels 0-125 are valid).
     // Both the RX and TX radios must have the same bitrate and channel to communicate with each other.
     // You can run the 'ChannelScanner' example to help select the best channel for your environment.
